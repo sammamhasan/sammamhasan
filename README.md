@@ -3,8 +3,6 @@
  <h1 align="center">Hi 👋, I'm Sammam Hasan</h1>
 <h3 align="center">Web Designer</h3>
 
-![Profile views](https://gpvc.arturio.dev/sammamhasan) 
-
 Hello, I am Nasimul Hasan. I am studying Computer Science and Engineering at the University of Information Technology and Sciences.
 
 I am currently working as a Campus Ambassador at Youth Advancement Institute. I am working in their IT department and helping them build their website. I became the best Campus Ambassador of the month there.
