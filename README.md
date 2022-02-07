@@ -14,7 +14,7 @@ I like to do Web Design. I like interacting with people and I feel good doing it
 
 Skills: HTML/CSS
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammamhasan&label=Profile%20views&color=0e75b6&style=flat" alt="sammamhasan" /> </p>
+
 
 - 🌱 I’m currently learing **JavaScript, React**
 
