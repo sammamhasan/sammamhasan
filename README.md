@@ -39,3 +39,20 @@ Skills:  HTML / CSS
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammamhasan&show_icons=true&locale=en&layout=compact" alt="sammamhasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammamhasan&" alt="sammamhasan" /></p>
+
+![](https://arturssmirnovs.github.io/github-proimages/banner.png)
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sammamhasan )  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammamhasan )](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammamhasan &show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sammamhasan )  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sammamhasan )  
+
+![Profile views](https://gpvc.arturio.dev/sammamhasan )  
