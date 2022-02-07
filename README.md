@@ -47,4 +47,5 @@ Skills: HTML/CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sammamhasan)  
 
-![Profile views](https://gpvc.arturio.dev/sammamhasan)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sammamhasan)  
+
