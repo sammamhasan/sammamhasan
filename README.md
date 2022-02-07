@@ -3,9 +3,18 @@
  <h1 align="center">Hi 👋, I'm Sammam Hasan</h1>
 <h3 align="center">Web Designer</h3>
 
+Hello, I am Nasimul Hasan. I am studying Computer Science and Engineering at the University of Information Technology and Sciences.
+
+I am currently working as a Campus Ambassador at Youth Advancement Institute. I am working in their IT department and helping them build their website. I became the best Campus Ambassador of the month there.
+I also worked as a Youth Facilitator at Swap.
+
+I like to do Web Design. I like interacting with people and I feel good doing it. When I am not working I usually play football with my friends. I love to play football.
+
+Skills: HTML/CSS
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammamhasan&label=Profile%20views&color=0e75b6&style=flat" alt="sammamhasan" /> </p>
 
-- 🌱 I’m currently **JavaScript, React**
+- 🌱 I’m currently learing **JavaScript, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sammamhasan](https://github.com/sammamhasan)
 
