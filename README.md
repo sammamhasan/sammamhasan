@@ -1,16 +1,5 @@
-![Web Designer ](https://github.com/sammamhasan/sammamhasan/blob/main/page.png)
-
-<h1 align="center">Hi 👋, I'm Sammam Hasan</h1>
+ <h1 align="center">Hi 👋, I'm Sammam Hasan</h1>
 <h3 align="center">Web Designer</h3>
-
-Hello, I am Nasimul Hasan. I am studying Computer Science and Engineering at the University of Information Technology and Sciences.
-
-I am currently working as a Campus Ambassador at Youth Advancement Institute. I am working in their IT department and helping them build their website. I became the best Campus Ambassador of the month there.
-I also worked as a Youth Facilitator at Swap.
-
-I like to do Web Design. I like interacting with people and I feel good doing it. When I am not working I usually play football with my friends. I love to play football.
-
-Skills:  HTML / CSS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammamhasan&label=Profile%20views&color=0e75b6&style=flat" alt="sammamhasan" /> </p>
 
@@ -38,21 +27,3 @@ Skills:  HTML / CSS
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammamhasan&show_icons=true&locale=en&layout=compact" alt="sammamhasan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammamhasan&" alt="sammamhasan" /></p>
-
-![](https://arturssmirnovs.github.io/github-proimages/banner.png)
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sammamhasan )  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammamhasan )](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammamhasan &show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sammamhasan )  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sammamhasan )  
-
-![Profile views](https://gpvc.arturio.dev/sammamhasan )  
